@@ -45,7 +45,7 @@
           "importance": "medium",
           "entity": "answer",
           "min": 2,
-          "max": 4,
+          "max": 120,
           "defaultNum": 2,
           "field": {
             "name": "answer",
